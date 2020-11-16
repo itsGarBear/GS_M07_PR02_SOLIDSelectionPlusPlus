@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "GS_M07_DV02_SOLIDSelection",
+"productVersion": "0.1",
+"dataUrl": "SOLIDSelectionPlusPlus_WebBuild.data.unityweb",
+"wasmCodeUrl": "SOLIDSelectionPlusPlus_WebBuild.wasm.code.unityweb",
+"wasmFrameworkUrl": "SOLIDSelectionPlusPlus_WebBuild.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.14f1"
+}
